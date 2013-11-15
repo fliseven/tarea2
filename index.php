@@ -138,9 +138,13 @@ echo "$vector[$numero]";
                       <h3> Juan Marcelo Cortez Gutierrez </h3>
                     <h4> Alumno de Ingenieria Civil en Computacion</h4>
                     <p> 21 años de edad.   Alumno de la carrera desde el 2010. Actualmente me encuentro cursando el octavo semestre
-                    Anteriormente termine 
-                        Actualmente curso el octavo semestre de la carrera que estudio.
-                        Dentro de mis hobbies al que mas le dedico tiempo es al Running </p>
+                    Anteriormente termine la educacion media en el internado nacional barros arana (INBA) el año 2009
+                    Actualmente trabajo part-time y estudio. La mayor meta que tengo es egresar de la carrera en el menor tiempo posible.</p>
+                    
+                      <p> <a href = "https://github.com/juannmmaa"> Repositorio Github </a> </p>
+                    <p> <a href="https://www.facebook.com/juanmacortezg"> Facebook </a></p>
+                    <p> Correo: juanma.cortezg@gmail.com </p>
+                   
 
                    
                 </article>
