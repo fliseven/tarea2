@@ -137,9 +137,10 @@ echo "$vector[$numero]";
                  <time> 07-06-2013 </time>
                       <h3> Juan Marcelo Cortez Gutierrez </h3>
                     <h4> Alumno de Ingenieria Civil en Computacion</h4>
-                    <p> Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo! Andres Calamardo!  </p>
-                    <audio controls="controls">
-                    <source src="audio/calamaro.ogg" type="audio/ogg"/>
+                    <p> 21 años de edad.   Alumno de la carrera desde el 2010. Actualmente me encuentro cursando el octavo semestre
+                    Anteriormente termine 
+                        Actualmente curso el octavo semestre de la carrera que estudio.
+                        Dentro de mis hobbies al que mas le dedico tiempo es al Running </p>
 
                    
                 </article>
