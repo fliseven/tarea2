@@ -155,8 +155,8 @@ echo "$vector[$numero]";
              <footer>
              <h6> 
                 <div class="vcard">
-                        <div> <span class="name"> Juan Marcelo Cortez Gutierrez</span> - <span class="locality"> Santiago </span> - <span class="region">Region Metropolitana </span> - <span class="postal-code">+56</span> </div>
-                        <div> <span class="tel"> 96 000 00 00 </span> - <span class="email"> juanma.cortezg@gmail.com</span> </div>
+                        <div> <span class="name"> Grupo 05 - Revista Digital</span> - <span class="locality"> Santiago </span> - <span class="region">Region Metropolitana </span> - <span class="postal-code">+56</span> </div>
+                        <div> <span class="tel"> 73186260 </span> - <span class="email"> juanma.cortezg@gmail.com</span> </div>
                 </div>
               </h6>
               <script type="text/javascript">
