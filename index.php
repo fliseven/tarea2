@@ -100,11 +100,9 @@ echo "$vector[$numero]";
                  
                       <h3> Felipe Eduardo Alvarez Rojas </h3>
                     <h4> Alumno de Ingenieria Civil en Computacion</h4>
-                    <p>   egresado el año 1965 yaaaaa del Liceo Jose Victorino Lastarria a la edad de 39 años. Muchos años pasaron
-						hasta que logro entrar a la universidad. El estudio ha sido su fuente de salvacion ya que a mediados de los
-						setenta cayo en las drogas, pero estar encerrado bajo el rigor de la ley lo ayudo a rehabilitarse y conocer
-						lo duro de la prision mediante abusos sexuales. Luego de quedar en libertad se encontraba solo por lo que busco refugio
-						en la comida y el alcohol, convirtiendose en el ser humano que conocemos ahora.</p>
+                    <p>   Mi nombre es Felipe Alvarez Rojas, Estudiante de 4 año de la carrera de ingeniería civil en computación, tengo 23 años y actualment
+                	  paralelo al estudio tengo un trabajo en una entidad financiera en un banco los fines de semana. La mayor parte de mi tiempo libre salgo 
+                	  a pasear por Santiago, leo algún libro, me informo de política o simplemente me tomo unas cervezas. </p>
 						<p> Enlaces de Interes: </p>
 						<p> <A HREF="https://github.com/fliseven/"> Repositorio Github</A></p>
 						<p> <A HREF="https://www.facebook.com/falvarezrojas1?fref=ts"> Facebook</A></p>
