@@ -3,6 +3,8 @@
 
 <html>  
     <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<?php header("Content-Type: text/html; charset=utf-8");?> 
     <title> Ingenieria de software </title>
     <meta name="description" content="Weblog de juanma"/>
     <meta name="keywords" content="weblog, blog, juan marcelo cortez gutierrez, juanma" />
