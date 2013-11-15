@@ -100,7 +100,7 @@ echo "$vector[$numero]";
                  <time> 07-06-2013 </time>
                       <h3> Felipe Eduardo Alvarez Rojas </h3>
                     <h4> Alumno de Ingenieria Civil en Computacion</h4>
-                    <p>   egresado el año 1965 del Liceo Jose Victorino Lastarria a la edad de 39 años. Muchos años pasaron
+                    <p>   egresado el año 1965 yaaaaa del Liceo Jose Victorino Lastarria a la edad de 39 años. Muchos años pasaron
 						hasta que logro entrar a la universidad. El estudio ha sido su fuente de salvacion ya que a mediados de los
 						setenta cayo en las drogas, pero estar encerrado bajo el rigor de la ley lo ayudo a rehabilitarse y conocer
 						lo duro de la prision mediante abusos sexuales. Luego de quedar en libertad se encontraba solo por lo que busco refugio
