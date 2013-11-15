@@ -97,7 +97,7 @@ echo "$vector[$numero]";
 				
                 <div id="pelao"> </div>
 				<font color="blue" size="4"> 
-                 <time> 07-06-2013 </time>
+                 
                       <h3> Felipe Eduardo Alvarez Rojas </h3>
                     <h4> Alumno de Ingenieria Civil en Computacion</h4>
                     <p>   egresado el año 1965 yaaaaa del Liceo Jose Victorino Lastarria a la edad de 39 años. Muchos años pasaron
@@ -134,7 +134,7 @@ echo "$vector[$numero]";
                 <article>
                 <div id="juanma"> </div>
 				<font color="blue" size="4"> 
-                 <time> 07-06-2013 </time>
+                 
                       <h3> Juan Marcelo Cortez Gutierrez </h3>
                     <h4> Alumno de Ingenieria Civil en Computacion</h4>
                     <p> 21 años de edad.   Alumno de la carrera desde el 2010. Actualmente me encuentro cursando el octavo semestre
